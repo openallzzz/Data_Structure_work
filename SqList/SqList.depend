@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632209297 source:a:\sqlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

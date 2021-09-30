@@ -1,0 +1,5 @@
+﻿  test.c
+C:\code\expressionOfEvaluation\test.c(222,47): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+C:\code\expressionOfEvaluation\test.c(169): warning C4715: “SqStackGetTop”: 不是所有的控件路径都返回值
+C:\code\expressionOfEvaluation\test.c(250): warning C4715: “fourOperations”: 不是所有的控件路径都返回值
+  expressionOfEvaluation.vcxproj -> C:\code\expressionOfEvaluation\Debug\expressionOfEvaluation.exe

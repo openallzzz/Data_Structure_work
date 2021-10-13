@@ -1,0 +1,3 @@
+﻿  BinaryTree2.c
+C:\code\2021C_Code\BinaryTree2\BinaryTree2.c(41): warning C4715: “BuyNewLqueueNode”: 不是所有的控件路径都返回值
+  BinaryTree2.vcxproj -> C:\code\2021C_Code\BinaryTree2\Debug\BinaryTree2.exe

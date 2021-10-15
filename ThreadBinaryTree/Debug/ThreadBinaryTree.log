@@ -1,0 +1,15 @@
+﻿  ThreadBinaryTree.c
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(23,40): warning C4013: “malloc”未定义；假设外部返回 int
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(25,7): warning C4013: “exit”未定义；假设外部返回 int
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(31,32): warning C4133: “=”: 从“TBTreeNode *”到“ThreadBianryTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(32,33): warning C4133: “=”: 从“TBTreeNode *”到“ThreadBianryTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(39,25): warning C4133: “函数”: 从“ThreadBianryTreeNode *”到“TBTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(42,21): warning C4133: “=”: 从“TBTreeNode *”到“ThreadBianryTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(46,22): warning C4133: “=”: 从“TBTreeNode *”到“ThreadBianryTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(49,26): warning C4133: “函数”: 从“ThreadBianryTreeNode *”到“TBTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(57,21): warning C4133: “=”: 从“ThreadBianryTreeNode *”到“TBTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(62,22): warning C4133: “=”: 从“ThreadBianryTreeNode *”到“TBTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(66,21): warning C4133: “=”: 从“ThreadBianryTreeNode *”到“TBTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(75,20): warning C4133: “函数”: 从“ThreadBianryTreeNode *”到“TBTreeNode *”的类型不兼容
+C:\code\2021C_Code\ThreadBinaryTree\ThreadBinaryTree.c(77,21): warning C4133: “函数”: 从“ThreadBianryTreeNode *”到“TBTreeNode *”的类型不兼容
+  ThreadBinaryTree.vcxproj -> C:\code\2021C_Code\ThreadBinaryTree\Debug\ThreadBinaryTree.exe

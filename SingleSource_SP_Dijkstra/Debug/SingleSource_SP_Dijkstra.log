@@ -1,0 +1,3 @@
+﻿  relize_Operations_DIJ.c
+C:\code\2021C_Code\SingleSource_SP_Dijkstra\relize_Operations_DIJ.c(8,8): warning C4013: “memset”未定义；假设外部返回 int
+  SingleSource_SP_Dijkstra.vcxproj -> C:\code\2021C_Code\SingleSource_SP_Dijkstra\Debug\SingleSource_SP_Dijkstra.exe

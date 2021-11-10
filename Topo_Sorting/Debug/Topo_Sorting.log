@@ -1,0 +1,3 @@
+﻿  RelizeTopoSorting.c
+C:\code\2021C_Code\Topo_Sorting\RelizeTopoSorting.c(116,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“VertexNode”
+  Topo_Sorting.vcxproj -> C:\code\2021C_Code\Topo_Sorting\Debug\Topo_Sorting.exe

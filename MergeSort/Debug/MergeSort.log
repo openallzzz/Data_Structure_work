@@ -1,0 +1,4 @@
+﻿  MergeSort.c
+C:\code\2021C_Code\MergeSort\MergeSort.c(51,25): warning C4013: “malloc”未定义；假设外部返回 int
+C:\code\2021C_Code\MergeSort\MergeSort.c(53,6): warning C4013: “free”未定义；假设外部返回 int
+  MergeSort.vcxproj -> C:\code\2021C_Code\MergeSort\Debug\MergeSort.exe

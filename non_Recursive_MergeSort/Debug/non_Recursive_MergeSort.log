@@ -1,0 +1,4 @@
+﻿  MergeSort.c
+C:\code\2021C_Code\non_Recursive_MergeSort\MergeSort.c(9,25): warning C4013: “malloc”未定义；假设外部返回 int
+C:\code\2021C_Code\non_Recursive_MergeSort\MergeSort.c(69,6): warning C4013: “free”未定义；假设外部返回 int
+  non_Recursive_MergeSort.vcxproj -> C:\code\2021C_Code\non_Recursive_MergeSort\Debug\non_Recursive_MergeSort.exe

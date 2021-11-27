@@ -1,0 +1,3 @@
+﻿  BlockingSearch.c
+C:\code\2021C_Code\BlockingSearch\BlockingSearch.c(23,39): warning C4013: “malloc”未定义；假设外部返回 int
+  BlockingSearch.vcxproj -> C:\code\2021C_Code\BlockingSearch\Debug\BlockingSearch.exe
